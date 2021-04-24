@@ -104,7 +104,7 @@ Using row and column gaps correctly is incredibly beneficial to keeping CSS clea
 
 Please feel free to post any questions below, and we will be happy to support you :)
 
-You can check out the sample project [here]().
+You can check out the sample project [here](https://github.com/skalable-samples/KotlinJS-Row-Column-Gap).
 
 @sKalable we are Full Stack Kotlin-centric agency that creates code that is always flexible, maintainable and of course, ***sKalable*** :D
 
